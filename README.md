@@ -1,1 +1,1 @@
-# TestMax
+# This is a graded exercise for an IBM course
